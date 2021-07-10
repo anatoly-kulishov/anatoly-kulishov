@@ -28,4 +28,3 @@
 [linkedin]: https://www.linkedin.com/in/anatoliy-kulishov-845392212
 [vk]: https://vk.com/rewq_99
 [telegram]: https://t.me/Rewq99
-[webdevplaylist]: https://vk.com/rewq_99
