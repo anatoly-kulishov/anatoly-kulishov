@@ -1,5 +1,5 @@
 
-## Hi there 👋 I'm a Web devoloper <img width="75" src="https://user-images.githubusercontent.com/47212815/123682027-29cb3300-d853-11eb-859c-7e0947601e36.gif" />
+## Hi there 👋 I'm a Frontend devoloper <img width="75" src="https://user-images.githubusercontent.com/47212815/123682027-29cb3300-d853-11eb-859c-7e0947601e36.gif" />
 
 ## LANGUAGES AND TOOLS
 
