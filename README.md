@@ -15,7 +15,7 @@
 [<img src="https://img.shields.io/badge/Python-Pip-green"/>][mock]
 
 ### GITHUB ACTIVITY
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogram99&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dogram99&repo=react-stack-bro&theme=react&show_icons=true)](https://github.com/dogram99/react-stack-bro)
 
