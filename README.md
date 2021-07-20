@@ -17,6 +17,8 @@
 ### GITHUB ACTIVITY
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogram99&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dogram99&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ## CONNECT WITH ME [<img width="70" src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" />][mock]
 [<img align="left" alt="vk" width="22px" src="https://user-images.githubusercontent.com/47212815/123818206-753c1a80-d901-11eb-96cf-bcf2478c9ab0.png" />][vk]
 [<img align="left" alt="Instagram" width="22px" src="https://camo.githubusercontent.com/d4ca5fbd24cd5cb7b98bae7d77d6d6205769f1b9f27edeb40830115b9ca8c73d/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323131312f323131313436332e737667" />][instagram]
