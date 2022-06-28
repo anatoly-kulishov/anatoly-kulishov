@@ -1,5 +1,5 @@
 
-## Hi there 👋 I'm a Frontend devoloper 
+## Hi there 👋 I'm a Frontend Engineer 
 
 ### LANGUAGES AND TOOLS
 
