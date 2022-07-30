@@ -27,9 +27,9 @@
 
 ## CONNECT WITH ME [<img width="70" src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" />][mock]
 
-[<img align="center" alt="vk" width="25px" src="img/vk.svg" style="margin-right: 5px;" />][vk]
-[<img align="center" alt="telegram" width="25px" src="img/telegram.svg" style="margin-right: 5px;" />][telegram]
-[<img align="center" alt="linkedin" width="25px" src="img/linkedin.svg" />][linkedin]
+[<img align="left" alt="vk" width="25px" src="img/vk.svg" />][vk]
+[<img align="left" alt="telegram" width="25px" src="img/telegram.svg" />][telegram]
+[<img align="left" alt="linkedin" width="25px" src="img/linkedin.svg" />][linkedin]
 
 [vk]: https://vk.com/rewq_99
 [telegram]: https://t.me/Rewq99
