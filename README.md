@@ -27,8 +27,11 @@
 
 ## CONNECT WITH ME [<img width="70" src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" />][mock]
 
-<a href="https://vk.com/rewq_99" rel="noopener noreferrer nofollow" target="_blank"><img align="left" alt="vk" width="30px" src="img/vk.svg" /></a>
-<a href="https://t.me/Rewq99" rel="noopener noreferrer nofollow" target="_blank"><img align="left" alt="telegram" width="30px" src="img/telegram.svg" /></a>
-<a href="https://www.linkedin.com/in/anatoliy-kulishov" rel="noopener noreferrer nofollow" target="_blank"><img align="left" alt="linkedin" width="30px" src="img/linkedin.svg" /></a>
+[<img align="left" alt="vk" width="30px" src="img/vk.svg" />][vk]
+[<img align="left" alt="telegram" width="30px" src="img/telegram.svg" />][telegram]
+[<img align="left" alt="linkedin" width="30px" src="img/linkedin.svg" />][linkedin]
 
+[vk]: https://vk.com/rewq_99
+[telegram]: https://t.me/Rewq99
+[linkedin]: https://www.linkedin.com/in/anatoliy-kulishov
 [mock]: #
