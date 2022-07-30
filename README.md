@@ -16,7 +16,7 @@
 [<img src="https://img.shields.io/badge/microfrontend-redux--micro--frontend-428E81"/>][mock]
 [<img src="https://img.shields.io/badge/ESLint-Prettier-4A31C3"/>][mock]
 [<img src="https://img.shields.io/badge/%20Wordpress-PHP-blueviolet"/>][mock]
-[<img src="https://img.shields.io/badge/Python-Pip-green"/>][mock]
+[<img src="https://img.shields.io/badge/npm-yarn-2C8EBB"/>][mock]
 
 <h3>GITHUB ACTIVITY</h3>
 
