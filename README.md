@@ -1,4 +1,4 @@
-<h2>Hi there 👋 I'm a Frontend Engineer</h2>
+<h2>Hi there 👋 I'm a Front-end Engineer</h2>
 
 <h3>LANGUAGES AND TOOLS</h3>
 
