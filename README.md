@@ -23,10 +23,21 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anatoly-kulishov&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="display: flex;">
+
+<span>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=stack-bro&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/react-stack-bro)
+
+</span>
+
+<span style="margin-left: 15px">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=fake-store&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/fake-store)
 
+</span>
+
+</div>
 ## CONNECT WITH ME [<img width="70" src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" />][mock]
 
 [<img align="left" alt="vk" width="30px" src="img/vk.svg" />][vk]
