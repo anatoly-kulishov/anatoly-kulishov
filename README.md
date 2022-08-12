@@ -45,7 +45,7 @@
 [<img align="left" alt="telegram" width="30px" src="img/telegram.svg" />][telegram]
 [<img align="left" alt="linkedin" width="30px" src="img/linkedin.svg" />][linkedin]
 
-[vk]: [https://vk.com/rewq_99](https://vk.com/anatoly_kulishov)
-[telegram]: [https://t.me/Rewq99](https://t.me/anatoly_kulishov)
-[linkedin]: [https://www.linkedin.com/in/anatoliy-kulishov](https://www.linkedin.com/in/anatoly-kulishov/)
+[vk]: https://vk.com/anatoly_kulishov
+[telegram]: https://t.me/anatoly_kulishov
+[linkedin]: https://www.linkedin.com/in/anatoly-kulishov
 [mock]: #
