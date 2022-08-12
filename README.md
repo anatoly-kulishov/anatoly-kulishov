@@ -27,7 +27,7 @@
 
 <span>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=stack-bro&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/react-stack-bro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=stack-bro&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/stack-bro)
 
 </span>
 
