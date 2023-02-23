@@ -23,7 +23,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anatoly-kulishov&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=stack-bro&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/stack-bro) &#160; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=fake-store&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/fake-store)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=stack-bro&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/stack-bro) &#160; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=fake-store&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/fake-store) <br/>
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=production-project&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/production-project) &#160;
 
