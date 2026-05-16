@@ -19,15 +19,6 @@
 [<img src="https://img.shields.io/badge/npm-yarn-2C8EBB"/>][mock]
 [<img src="https://img.shields.io/badge/Python-Pip-green"/>][mock]
 
-<h3>GITHUB ACTIVITY</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anatoly-kulishov&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=stack-bro&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/stack-bro)
-&#160; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=fake-store&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/fake-store) <hr/>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=production-project&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/production-project) 
-&#160;  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anatoly-kulishov&repo=microfrontends-template&theme=react&show_icons=true)](https://github.com/anatoly-kulishov/microfrontends-template)
-
 ## CONNECT WITH ME
 
 [<img align="left" alt="vk" width="30px" src="img/vk.svg" />][vk]
