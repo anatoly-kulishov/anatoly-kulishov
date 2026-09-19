@@ -1,34 +1,24 @@
-<h2>Hi there 👋 I'm a Front-end Engineer</h2>
+# Anatoly Kulishov
 
-<h3>LANGUAGES AND TOOLS</h3>
+**Senior Frontend Engineer** @ Wildberries · Moscow
 
-[<img src="https://img.shields.io/badge/HTML5-Jade-orange"/>][mock]
-[<img src="https://img.shields.io/badge/CSS3-SCSS-red"/>][mock]
-[<img src="https://img.shields.io/badge/TailwindCSS-LESS-2C4878"/>][mock]
-[<img src="https://img.shields.io/badge/TailwindCSS-AntDesign-0C6BFF"/>][mock]
-[<img src="https://img.shields.io/badge/JavaScript-TypeScript-blue"/>][mock]
-[<img src="https://img.shields.io/badge/React-Redux-blueviolet"/>][mock]
-[<img src="https://img.shields.io/badge/React%20Native-NativeBase-50BFC3"/>][mock]
-[<img src="https://img.shields.io/badge/Jest%20-Enzyme-77250C"/>][mock]
-[<img src="https://img.shields.io/badge/jQuery-Ajax-yellow"/>][mock]
-[<img src="https://img.shields.io/badge/Gulp-Webpack-rgb(82%2C153%2C200)"/>][mock]
-[<img src="https://img.shields.io/badge/Next.js-Docker-2497ED"/>][mock]
-[<img src="https://img.shields.io/badge/microfrontend-redux--micro--frontend-428E81"/>][mock]
-[<img src="https://img.shields.io/badge/ESLint-Prettier-4A31C3"/>][mock]
-[<img src="https://img.shields.io/badge/%20Wordpress-PHP-blueviolet"/>][mock]
-[<img src="https://img.shields.io/badge/npm-yarn-2C8EBB"/>][mock]
-[<img src="https://img.shields.io/badge/Python-Pip-green"/>][mock]
+I build product UIs for the web and mobile shells - fast, offline-friendly, and boring in the best way for users.
 
-## CONNECT WITH ME
+## Featured
 
-[<img align="left" alt="vk" width="30px" src="img/vk.svg" />][vk]
-[<img align="left" alt="telegram" width="30px" src="img/telegram.svg" />][telegram]
-[<img align="left" alt="linkedin" width="30px" src="img/linkedin.svg" />][linkedin]
+| Project | What it is |
+| --- | --- |
+| **[Repdraft](https://github.com/anatoly-kulishov/Repdraft)** | Gym workout log, exercise catalog, and workout builder. Mobile-first PWA (SvelteKit + TypeScript). [Live](https://repdraft-zeta.vercel.app) |
+| **[frontend-interview-prep](https://github.com/anatoly-kulishov/frontend-interview-prep)** | Algorithms, data structures, design patterns, LeetCode, and real company interview tasks |
+| **[CatBreak](https://github.com/anatoly-kulishov/CatBreak)** | Desktop break reminders for your eyes (macOS, Windows, Linux) |
+| **[stack-bro](https://github.com/anatoly-kulishov/stack-bro)** | React / TypeScript learning project with CI, Redux, and microfrontend practice |
 
-[vk]: https://vk.com/anatoly_kulishov
+## Stack
 
-[telegram]: https://t.me/anatoly_kulishov
+**Core:** TypeScript · React · Next.js · SvelteKit · Redux · Tailwind CSS  
 
-[linkedin]: https://www.linkedin.com/in/anatoly-kulishov
+**Also:** Supabase · Capacitor · Playwright · Webpack · Docker · Node.js
 
-[mock]: #
+## Connect
+
+[Telegram](https://t.me/anatoly_kulishov) · [LinkedIn](https://www.linkedin.com/in/anatoly-kulishov) · [VK](https://vk.com/anatoly_kulishov) · [GitHub](https://github.com/anatoly-kulishov)
