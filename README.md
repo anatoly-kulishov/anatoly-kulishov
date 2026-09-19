@@ -62,6 +62,4 @@ I build product UIs for the web and mobile shells - fast, offline-friendly, and 
 
 ### Connect
 
-[<img align="left" alt="Telegram" width="28px" src="img/telegram.svg" />](https://t.me/anatoly_kulishov)
-[<img align="left" alt="LinkedIn" width="28px" src="img/linkedin.svg" />](https://www.linkedin.com/in/anatoly-kulishov)
-[<img align="left" alt="VK" width="28px" src="img/vk.svg" />](https://vk.com/anatoly_kulishov)
+[<img alt="Telegram" width="28" height="28" hspace="6" src="img/telegram.svg" />](https://t.me/anatoly_kulishov)&nbsp;&nbsp;[<img alt="LinkedIn" width="28" height="28" hspace="6" src="img/linkedin.svg" />](https://www.linkedin.com/in/anatoly-kulishov)&nbsp;&nbsp;[<img alt="VK" width="28" height="28" hspace="6" src="img/vk.svg" />](https://vk.com/anatoly_kulishov)
