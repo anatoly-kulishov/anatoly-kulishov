@@ -64,3 +64,4 @@ I build product UIs for the web and mobile shells - fast, offline-friendly, and 
 
 [<img alt="Telegram" width="28" height="28" hspace="6" src="img/telegram.svg" />](https://t.me/anatoly_kulishov)&nbsp;&nbsp;[<img alt="LinkedIn" width="28" height="28" hspace="6" src="img/linkedin.svg" />](https://www.linkedin.com/in/anatoly-kulishov)&nbsp;&nbsp;[**@anatoly_kulishov99**](https://chat.wb.ru/) · WB Chat
 
+[anatoly.kulishov99@gmail.com](mailto:anatoly.kulishov99@gmail.com) · [anatolkulishov@yandex.ru](mailto:anatolkulishov@yandex.ru)
