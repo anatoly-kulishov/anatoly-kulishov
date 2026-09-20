@@ -43,6 +43,44 @@ I build product UIs for the web and mobile shells - fast, offline-friendly, and 
 ![Husky](https://img.shields.io/badge/Husky-000000?style=flat-square&logo=husky&logoColor=white)
 ![FSD](https://img.shields.io/badge/FSD-Feature--Sliced_Design-0B0F14?style=flat-square)
 
+### AI / LLM
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square)
+![TGI](https://img.shields.io/badge/TGI-FFD21E?style=flat-square)
+![GigaChat](https://img.shields.io/badge/GigaChat-21A038?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6A00FF?style=flat-square)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Chroma](https://img.shields.io/badge/Chroma-FF6F61?style=flat-square)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+![Dify](https://img.shields.io/badge/Dify-1C64F2?style=flat-square)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-000000?style=flat-square)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square)
+![Structured Output](https://img.shields.io/badge/Structured_Output-6366F1?style=flat-square)
+![Function Calling](https://img.shields.io/badge/Function_Calling-0EA5E9?style=flat-square)
+![GGUF](https://img.shields.io/badge/GGUF-111111?style=flat-square)
+![AWQ](https://img.shields.io/badge/AWQ-FF6B00?style=flat-square)
+![GPTQ](https://img.shields.io/badge/GPTQ-2D6A4F?style=flat-square)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![TensorRT-LLM](https://img.shields.io/badge/TensorRT--LLM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ### Also used
 
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
@@ -62,4 +100,4 @@ I build product UIs for the web and mobile shells - fast, offline-friendly, and 
 
 ### Connect
 
-[<img alt="Telegram" width="28" height="28" hspace="6" src="img/telegram.svg" title="Telegram" />](https://t.me/anatoly_kulishov)&nbsp;&nbsp;[<img alt="LinkedIn" width="28" height="28" hspace="6" src="img/linkedin.svg" title="LinkedIn" />](https://www.linkedin.com/in/anatoly-kulishov)&nbsp;&nbsp;[<img alt="WB Chat" width="28" height="28" hspace="6" src="img/wb-chat.png" title="@anatoly_kulishov99 · WB Chat" />](https://chat.wb.ru/)&nbsp;&nbsp;[<img alt="Gmail" width="28" height="28" hspace="6" src="img/gmail.png" title="anatoly.kulishov99@gmail.com" />](mailto:anatoly.kulishov99@gmail.com)&nbsp;&nbsp;[<img alt="Yandex Mail" width="28" height="28" hspace="6" src="img/yandex-mail.png" title="anatolkulishov@yandex.ru" />](mailto:anatolkulishov@yandex.ru)
+[<img alt="LinkedIn" width="28" height="28" hspace="6" src="img/linkedin.png" title="LinkedIn" />](https://www.linkedin.com/in/anatoly-kulishov)&nbsp;&nbsp;[<img alt="Telegram" width="28" height="28" hspace="6" src="img/telegram.png" title="Telegram" />](https://t.me/anatoly_kulishov)&nbsp;&nbsp;[<img alt="WB Chat" width="28" height="28" hspace="6" src="img/wb-chat.png" title="@anatoly_kulishov99 · WB Chat" />](https://chat.wb.ru/@anatoly_kulishov99)&nbsp;&nbsp;[<img alt="Gmail" width="28" height="28" hspace="6" src="img/gmail.png" title="anatoly.kulishov99@gmail.com" />](mailto:anatoly.kulishov99@gmail.com)&nbsp;&nbsp;[<img alt="Yandex Mail" width="28" height="28" hspace="6" src="img/yandex-mail.png" title="anatolkulishov@yandex.ru" />](mailto:anatolkulishov@yandex.ru)
