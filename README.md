@@ -2,8 +2,6 @@
 
 **Senior Frontend Engineer** @ Wildberries · Moscow
 
-I build product UIs for the web and mobile shells - fast, offline-friendly, and boring in the best way for users.
-
 ### Core
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
