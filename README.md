@@ -33,8 +33,6 @@ Frontend (TypeScript, React, Next.js, SvelteKit) and applied LLM work: RAG, agen
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square)
 
-Practice: [ship-ai-sandbox](https://github.com/anatoly-kulishov/ship-ai-sandbox) · [mcp-ctrl](https://github.com/anatoly-kulishov/mcp-ctrl)
-
 ### Connect
 
 [<img alt="LinkedIn" width="28" height="28" hspace="6" src="img/linkedin.png" title="LinkedIn" />](https://www.linkedin.com/in/anatoly-kulishov)&nbsp;&nbsp;[<img alt="Telegram" width="28" height="28" hspace="6" src="img/telegram.png" title="Telegram" />](https://t.me/anatoly_kulishov)&nbsp;&nbsp;[<img alt="WB Chat" width="28" height="28" hspace="6" src="img/wb-chat.png" title="@anatoly_kulishov99 · WB Chat" />](https://chat.wb.ru/@anatoly_kulishov99)&nbsp;&nbsp;[<img alt="Gmail" width="28" height="28" hspace="6" src="img/gmail.png" title="anatoly.kulishov99@gmail.com" />](mailto:anatoly.kulishov99@gmail.com)&nbsp;&nbsp;[<img alt="Yandex Mail" width="28" height="28" hspace="6" src="img/yandex-mail.png" title="anatolkulishov@yandex.ru" />](mailto:anatolkulishov@yandex.ru)
