@@ -16,12 +16,24 @@ Frontend (TypeScript, React, Next.js, SvelteKit) and applied LLM work: RAG, agen
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![FSD](https://img.shields.io/badge/FSD-Feature--Sliced-0B0F14?style=flat-square)
 
-### Focus
+### AI / LLM
 
-- **Frontend / product UI:** mobile-first PWA and web apps ([Repdraft](https://www.repdraft.xyz))
-- **Desktop tooling:** macOS / cross-platform utilities (Happ Bridge, Cat Break)
-- **LLM / AI engineering:** RAG, agents, structured output, tool calling, fine-tuning ([ship-ai-sandbox](https://github.com/anatoly-kulishov/ship-ai-sandbox))
-- **Agent harness tooling:** MCP and skills across OpenCode, Cursor, Codex ([mcp-ctrl](https://github.com/anatoly-kulishov/mcp-ctrl))
+![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-111111?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![Agents](https://img.shields.io/badge/Agents-0EA5E9?style=flat-square)
+![QLoRA](https://img.shields.io/badge/QLoRA-FF6B00?style=flat-square)
+![Structured Output](https://img.shields.io/badge/Structured_Output-6366F1?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-0EA5E9?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![GigaChat](https://img.shields.io/badge/GigaChat-21A038?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6F61?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square)
+
+Practice: [ship-ai-sandbox](https://github.com/anatoly-kulishov/ship-ai-sandbox) · [mcp-ctrl](https://github.com/anatoly-kulishov/mcp-ctrl)
 
 ### Connect
 
