@@ -1,6 +1,6 @@
 # Anatoly Kulishov
 
-**Senior Frontend Engineer** @ [Wildberries](https://www.wildberries.ru) · Moscow
+Senior Frontend & Forward Deployed Engineer @ [Wildberries](https://www.wildberries.ru) · Moscow
 
 Frontend (TypeScript, React, Next.js, SvelteKit) and applied LLM work: RAG, agents, structured output, tool calling, QLoRA. I ship products and tooling.
 
